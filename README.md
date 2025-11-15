@@ -52,10 +52,10 @@
   <tr>
     <td align="center"><strong>Diseño y 3D</strong></td>
     <td>
+      <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
       <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop"/>
       <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator"/>
-      <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
     </td>
   </tr>
   <!-- Fila de Móvil, IA & IoT -->
@@ -66,7 +66,6 @@
       <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
       <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge" alt="Hugging Face"/>
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
     </td>
   </tr>
   <!-- Fila de DevOps y Herramientas -->
