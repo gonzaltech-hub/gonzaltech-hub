@@ -15,7 +15,7 @@
 
 - 🎓 Actualmente finalizando mis estudios en **Diseño y Programación Web**.
 - 🚀 Apasionado por crear soluciones tecnológicas que no solo funcionen bien, sino que también ofrezcan una experiencia de usuario memorable y visualmente impactante.
-- 💡 Me interesa especialmente la intersección entre el desarrollo web tradicional y las tecnologías emergentes como la IA y los gráficos en tiempo real.
+- 💡 Me interesa especialmente la intersección entre el desarrollo web tradicional y las tecnologías emergentes como la IA y las experiencias 3D con Unreal Engine.
 - 🌱 Siempre estoy aprendiendo y experimentando con nuevas herramientas para llevar los proyectos al siguiente nivel.
 
 ---
