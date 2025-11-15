@@ -104,8 +104,16 @@
 
 <!-- Estadísticas de GitHub -->
 ### 📊 Mis Estadísticas en GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gonzaltech-hub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzaltech-hub&layout=compact&theme=dracula" alt="Lenguajes más usados"/>
-</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=gonzaltech-hub&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Agustín"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzaltech-hub&layout=compact&theme=dracula" alt="Lenguajes más usados por Agustín"/>
+      </td>
+    </tr>
+  </table>
+</div>
