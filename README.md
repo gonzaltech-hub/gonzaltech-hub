@@ -2,8 +2,7 @@
 <div align="center">
   <h1>👋 ¡Hola! Soy Agustín González</h1>
   <p>
-    <b>Creative Technologist & Web Developer. 
-      Estudiante de Diseño y Programación Web.</b>
+    <b>Creative Technologist & Web Developer. <p>Estudiante de Diseño y Programación Web.</b>
   </p>
 </div>
 
