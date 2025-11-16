@@ -2,7 +2,7 @@
 <div align="center">
   <h1>👋 ¡Hola! Soy Agustín González</h1>
   <p>
-    <b>Creative Technologist & Web Developer. Fusionando diseño 🎨, APIs de IA 🤖 y experiencias 3D interactivas con Unreal Engine 🎮. Estudiante de Diseño y Programación Web.</b>
+    <b>Creative Technologist & Web Developer. Estudiante de Diseño y Programación Web.</b>
   </p>
 </div>
 
