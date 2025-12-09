@@ -19,7 +19,7 @@
 
 - 🎓 Actualmente finalizando mis estudios en **Diseño y Programación Web**.
 - 🚀 Apasionado por crear soluciones tecnológicas que no solo funcionen bien, sino que ofrezcan una **experiencia de usuario memorable** y visualmente impactante.
-- 💡 Me especializo en la intersección entre el **Desarrollo Full Stack** y tecnologías creativas como **Unreal Engine 5**.
+- 💡 Me especializo en la intersección entre el **Desarrollo Full Stack** y tecnologías creativas.
 - 🌱 Siempre aprendiendo y experimentando para llevar mis proyectos al siguiente nivel.
 
 ---
@@ -59,7 +59,7 @@
       </td>
     </tr>
     <tr>
-    <td align="center"><strong>DevOps & AI</strong></td>
+    <td align="center"><strong>DevOps</strong></td>
      <td>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -67,7 +67,6 @@
         <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
         <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
         <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render"/>
-        <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
      </td>
    </tr>
   </table>
