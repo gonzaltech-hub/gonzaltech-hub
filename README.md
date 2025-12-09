@@ -79,8 +79,8 @@
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
-| **FixIt** | Sistema de Gestión de Consorcios Full Stack con autenticación y roles. | `React` `Node.js` `MongoDB` |
-| **Unreal Engine Mechanics** | Recreación de mecánicas AAA (Uncharted 4 / TLOU2) en UE5. | `UE5` `Blueprints` `C++` |
+| **FixIt** | Sistema de Gestión de Consorcios Full Stack con autenticación y roles. | `React` `Node.js` `MongoDB` `Express.js` |
+| **Ringo Tweaker** | Aplicación de escritorio moderna para limpiar, optimizar y personalizar Windows. Conecta una interfaz React con comandos nativos vía PowerShell. | `Electron` `React` `Tailwind CSS` `Node.js` `Vite` `PowerShell` |
 
 ---
 
