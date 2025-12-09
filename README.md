@@ -4,7 +4,7 @@
   <p>Estudiante de Diseño y Programación Web</p>
 
   <a href="https://#inprogress" target="_blank">
-    <img src="https://img.shields.io/badge/Visita%20mi%20Portfolio%20Web-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Web"/>
+    <img src="https://img.shields.io/badge/Portfolio%20Web-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Web"/>
   </a>
   <a href="https://#inprogress" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
