@@ -88,13 +88,22 @@
 ### 📊 Mis Estadísticas en GitHub
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gonzaltech-hub&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=gonzaltech-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&date=20241209" alt="Estadísticas Generales"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gonzaltech-hub&theme=tokyonight" alt="Profile Summary"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gonzaltech-hub&theme=tokyonight" alt="Top Languages"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzaltech-hub&layout=compact&theme=tokyonight" alt="Lenguajes más usados"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gonzaltech-hub&theme=tokyonight" alt="Repos per Language"/>
       </td>
     </tr>
   </table>
