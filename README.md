@@ -90,8 +90,8 @@
 <div align="center">
   <table>
     <tr>
-      <td>https://github-readme-stats-sigma-five.vercel.app/api?username=
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=gonzaltech-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estadísticas Generales"/>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=gonzaltech-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&date=20241209" alt="Estadísticas Generales"/>
       </td>
       <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzaltech-hub&layout=compact&theme=tokyonight" alt="Lenguajes más usados"/>
