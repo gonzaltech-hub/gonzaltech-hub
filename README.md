@@ -107,8 +107,6 @@
   </table>
 </div>
 
-<br>
-
 ---
 
 <div align="center">
