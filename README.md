@@ -1,18 +1,16 @@
 <div align="center">
   <h1>👋 ¡Hola! Soy Agustín González</h1>
-  <h3>Web Designer & Developer</h3>
-  <p>Estudiante de Diseño y Programación Web</p>
-
-  <a href="https://#inprogress" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio%20Web-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Web"/>
+  <h3>Web Designer & Full Stack Developer</h3>
+  <p>Estudiante en Escuela Da Vinci</p>
+  
+  <a href="https://#inprogress">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://#inprogress" target="_blank">
+  <a href="https://#inprogress">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
-
 <br>
-
 ---
 
 ### 👨‍💻 Sobre Mí
