@@ -17,20 +17,19 @@
 
 ### 👨‍💻 Sobre Mí
 
-- 🎓 Actualmente estudiando **Diseño y Programación Web** en la Escuela Da Vinci.
-- 🚀 Apasionado por crear soluciones tecnológicas que no solo funcionen bien, sino que ofrezcan una **experiencia de usuario memorable** y visualmente impactante.
-- 💡 Me especializo en la intersección entre el **Desarrollo Full Stack** y tecnologías creativas.
-- 🌱 Siempre aprendiendo y experimentando para llevar mis proyectos al siguiente nivel.
-- 💼 Abierto a oportunidades laborales en desarrollo web. Mi enfoque es adaptable y estoy comprometido con el aprendizaje continuo de nuevas tecnologías.
+🎓 Actualmente estudiando Diseño y Programación Web en la Escuela Da Vinci.
+🚀 Apasionado por crear soluciones tecnológicas que no solo funcionen bien, sino que ofrezcan una experiencia de usuario memorable y visualmente impactante.
+💡 Me especializo en la intersección entre el Desarrollo Full Stack y tecnologías creativas.
+🌱 Siempre aprendiendo y experimentando para llevar mis proyectos al siguiente nivel.
+💼 Abierto a oportunidades laborales en desarrollo web. Mi enfoque es adaptable y estoy comprometido con el aprendizaje continuo.
 
 ---
 
 ### 🛠️ Mi Stack de Tecnologías
-
 <div align="center">
   <table>
     <tr>
-     <td align="center" width="120px"><strong>Front-end</strong></td>
+     <td align="center" width="140px"><strong>Frontend</strong></td>
       <td>
         <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
@@ -40,7 +39,7 @@
       </td>
     </tr>
     <tr>
-      <td align="center"><strong>Back-end & DB</strong></td>
+      <td align="center"><strong>Backend & Bases de Datos</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
         <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js"/>
@@ -73,7 +72,6 @@
    </tr>
   </table>
 </div>
-
 ---
 
 ### 🚀 Proyectos Destacados
