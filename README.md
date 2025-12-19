@@ -92,16 +92,16 @@
 <div align="center">
   <table>
     <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gonzaltech-hub&theme=tokyonight" alt="Profile Summary"/>
+      <td colspan="2">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gonzaltech-hub&theme=tokyonight" alt="Profile Summary"/>
       </td>
     </tr>
     <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gonzaltech-hub&theme=tokyonight" alt="Top Languages"/>
+      <td width="50%">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gonzaltech-hub&theme=tokyonight" alt="Top Languages"/>
       </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gonzaltech-hub&theme=tokyonight" alt="Repos per Language"/>
+      <td width="50%">
+        <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gonzaltech-hub&theme=tokyonight" alt="Repos per Language"/>
       </td>
     </tr>
   </table>
