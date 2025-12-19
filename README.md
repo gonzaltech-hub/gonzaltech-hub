@@ -71,6 +71,7 @@
    </tr>
   </table>
 </div>
+
 ---
 
 ### 🚀 Proyectos Destacados
@@ -103,6 +104,8 @@
 </div>
 
 <br>
+
+---
 
 <div align="center">
   <a href="mailto:agustin.gonzalez.cv@gmail.com">
