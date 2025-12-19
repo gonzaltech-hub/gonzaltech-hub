@@ -17,9 +17,13 @@
 ### 👨‍💻 Sobre Mí
 
 🎓 Actualmente estudiando Diseño y Programación Web en la Escuela Da Vinci.
+
 🚀 Apasionado por crear soluciones tecnológicas que no solo funcionen bien, sino que ofrezcan una experiencia de usuario memorable y visualmente impactante.
+
 💡 Me especializo en la intersección entre el Desarrollo Full Stack y tecnologías creativas.
+
 🌱 Siempre aprendiendo y experimentando para llevar mis proyectos al siguiente nivel.
+
 💼 Abierto a oportunidades laborales en desarrollo web. Mi enfoque es adaptable y estoy comprometido con el aprendizaje continuo.
 
 ---
@@ -102,6 +106,7 @@
     </tr>
   </table>
 </div>
+
 <br>
 
 ---
