@@ -82,7 +82,7 @@
 
 | Proyecto | Descripción | Stack | Enlaces |
 | :--- | :--- | :--- | :---: |
-| **FixIt** | Sistema de Gestión de Consorcios Full Stack con autenticación y roles. | `React` `Node.js` `MongoDB` `Express.js` | [🔗 [Repo](https://github.com/gonzaltech-hub/Parcial-2-Aplicaciones-Hibridas)] <br>[🚀 [Demo](https://fixit-gonzalez.vercel.app/login)] |
+| **FixIt** | Sistema de Gestión de Consorcios Full Stack con autenticación y roles. | `React` `Node.js` `MongoDB` `Express.js` | [🔗 Repo](https://github.com/gonzaltech-hub/Parcial-2-Aplicaciones-Hibridas) [🚀 Demo](https://fixit-gonzalez.vercel.app/login) |
 | **Ringo Tweaker** | Aplicación de escritorio moderna para limpiar, optimizar y personalizar Windows. | `Electron` `React` `Tailwind CSS` `Node.js` `Vite` `PowerShell` |
 
 ---
